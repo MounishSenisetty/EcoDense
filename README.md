@@ -1,5 +1,9 @@
 # **EcoDense: Innovating a Greener Future 🌿**  
 
+# **Problem Statement:** 
+As climate change accelerates, individuals and organizations struggle to measure and reduce their carbon footprints effectively. There is a need for a simple yet powerful tool that integrates AI-driven insights to promote sustainable living and efficient resource utilization.
+
+
 **EcoDense** is a sustainability-focused project aimed at reducing carbon emissions and promoting eco-friendly practices through innovative tools and technologies. This project leverages AI-powered solutions to provide actionable insights, user-friendly tools, and resources to help individuals and businesses reduce their environmental impact.  
 
 ## **Features**  
@@ -8,17 +12,106 @@
 - 💬 **Integrated Chatbot**: A responsive chatbot to assist users with queries and provide guidance on reducing emissions.  
 - 📚 **Educational Resources**: Blogs, tips, and case studies to inspire sustainable living and climate action.  
 
-## **Project Objectives**  
-1. Empower users to make informed decisions to reduce their carbon footprint.  
-2. Provide advanced tools for sustainability, leveraging AI and machine learning.  
-3. Raise awareness about the importance of environmental conservation and climate change mitigation.  
+
+---
+
+# **🌍 Ecobot - TinyCoders Project**  
+
+### **Problem Statement**  
+As climate change accelerates, individuals and organizations struggle to measure and reduce their carbon footprints effectively. There is a need for a simple yet powerful tool that integrates AI-driven insights to promote sustainable living and efficient resource utilization.
+
+---
+
+### **Project Overview**  
+**Ecobot** is an AI-powered chatbot designed to raise awareness about carbon emissions and provide actionable insights for reducing them. Users can:  
+- **Calculate their carbon footprint** using the built-in carbon emission calculator.  
+- **Receive personalized suggestions** on tools, techniques, and actions to reduce emissions.  
+- **Engage with a responsive chatbot** to get instant answers and guidance related to sustainability.  
+
+This project seamlessly integrates modern front-end technologies with AI-powered tools to deliver a dynamic and interactive experience.
+
+---
+
+### **Project Working**  
+#### **Flow:**  
+1. **Interactive Chatbot:**  
+   - Users interact with the chatbot powered by Chatbase for insights and assistance.  
+2. **Carbon Emission Calculator:**  
+   - Input details about daily activities to calculate emissions.  
+3. **AI Recommendations:**  
+   - Get efficient tools and tips to minimize your environmental impact.  
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Sqa-krtwFc8/0.jpg)](https://www.youtube.com/watch?v=Sqa-krtwFc8) 
+
+---
+
+### **4. Tech Stack**  
+#### **Frontend:**  
+- **Languages:** TypeScript, JavaScript, HTML, CSS  
+- **Frameworks/Libraries:** React.js  
+- **Styling:** Tailwind CSS  
+- **Icons:** Lucide-React  
+
+#### **Backend:**  
+- **Language:** Node.js  
+- **Framework:** Express.js  
+
+#### **AI Integration:**  
+- **Chatbot Framework:** Chatbase  
+
+#### **Hosting:**  
+- Wix, Vercel, or Netlify  
+
+---
+
+### **5. Installation Guide**  
+
+Follow these steps to set up the project locally:  
+
+#### **1. Clone the Repository:**  
+```bash
+git clone https://github.com/MounishSenisetty/ecobot.git
+cd ecobot
+```
+
+#### **2. Install Dependencies:**  
+Make sure you have Node.js and npm installed. Run:  
+```bash
+npm install
+```
+
+#### **3. Start the Development Server:**  
+```bash
+npm start
+```
+
+#### **4. Build for Production:**  
+To generate the production build, run:  
+```bash
+npm run build
+```
+
+#### **5. Deploy:**  
+You can deploy the app using platforms like Vercel, Netlify, or GitHub Pages.
+
+---
+
+### **Contributors**  
+**TinyCoders Team:**  
+- Mounish  
+- Nikhil  
+- Adwaith  
+- Kundhan  
+
+---
+
+Feel free to expand this README further as you add more features or details to the project! 
 
 ## **Technologies Used**  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python (Flask/Django) or Node.js  
 - **AI Integration**: XG Boost  
-- **Chatbot**: Custom chatbot using Chatbase or Landbot  
-- **Hosting**: Wix, GitHub Pages, or other hosting platforms  
+- **Chatbot**: Custom chatbot using Chatbase 
 
 ## **How to Use**  
 1. Visit the **Ecodense** website (link coming soon).  
