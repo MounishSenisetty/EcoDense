@@ -41,7 +41,8 @@ This project seamlessly integrates modern front-end technologies with AI-powered
 3. **AI Recommendations:**  
    - Get efficient tools and tips to minimize your environmental impact.  
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Sqa-krtwFc8/0.jpg)](https://www.youtube.com/watch?v=Sqa-krtwFc8) 
+
+[![Watch the video](https://www.youtube.com/watch?v=Sqa-krtwFc8)](https://www.youtube.com/watch?v=Sqa-krtwFc8)
 
 ---
 
@@ -57,10 +58,7 @@ This project seamlessly integrates modern front-end technologies with AI-powered
 - **Framework:** Express.js  
 
 #### **AI Integration:**  
-- **Chatbot Framework:** Chatbase  
-
-#### **Hosting:**  
-- Wix, Vercel, or Netlify  
+- **Chatbot Framework:** Chatbase   
 
 ---
 
@@ -105,12 +103,12 @@ You can deploy the app using platforms like Vercel, Netlify, or GitHub Pages.
 
 ---
 
-Feel free to expand this README further as you add more features or details to the project! 
+[![Watch the video](https://www.youtube.com/watch?v=oMnwWrz7ytU)](https://www.youtube.com/watch?v=oMnwWrz7ytU)
 
 ## **Technologies Used**  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python (Flask/Django) or Node.js  
-- **AI Integration**: XG Boost  
+- **AI Integration**: Random Forest 
 - **Chatbot**: Custom chatbot using Chatbase 
 
 ## **How to Use**  
