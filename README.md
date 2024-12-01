@@ -42,7 +42,8 @@ This project seamlessly integrates modern front-end technologies with AI-powered
    - Get efficient tools and tips to minimize your environmental impact.  
 
 
-[![Watch the video](https://img.youtube.com/vi/<Sqa-krtwFc8>/0.jpg)]([(https://www.youtube.com/watch?v=Sqa-krtwFc8)]
+[![Watch the video](https://img.youtube.com/vi/Sqa-krtwFc8/0.jpg)](https://www.youtube.com/watch?v=Sqa-krtwFc8)
+
 
 ---
 
@@ -103,7 +104,8 @@ You can deploy the app using platforms like Vercel, Netlify, or GitHub Pages.
 
 ---
 
-[![Watch the video](https://www.youtube.com/watch?v=oMnwWrz7ytU)](https://www.youtube.com/watch?v=oMnwWrz7ytU)
+[![Watch the video](https://img.youtube.com/vi/oMnwWrz7ytU/0.jpg)](https://www.youtube.com/watch?v=oMnwWrz7ytU)
+
 
 ## **Technologies Used**  
 - **Frontend**: HTML, CSS, JavaScript  
