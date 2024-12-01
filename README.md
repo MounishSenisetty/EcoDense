@@ -42,7 +42,7 @@ This project seamlessly integrates modern front-end technologies with AI-powered
    - Get efficient tools and tips to minimize your environmental impact.  
 
 
-[![Watch the video](https://www.youtube.com/watch?v=Sqa-krtwFc8)](https://www.youtube.com/watch?v=Sqa-krtwFc8)
+[![Watch the video](https://img.youtube.com/vi/<Sqa-krtwFc8>/0.jpg)]([(https://www.youtube.com/watch?v=Sqa-krtwFc8)]
 
 ---
 
